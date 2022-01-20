@@ -1,1 +1,0 @@
-# ELK_1_PROJECT
